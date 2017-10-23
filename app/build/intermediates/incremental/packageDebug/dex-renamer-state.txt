@@ -1,0 +1,4 @@
+#Mon Oct 23 21:10:24 CST 2017
+base.0=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

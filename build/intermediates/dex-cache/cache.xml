@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_5ab5bbb3844d6c72109d7acdf4c48c80a5c728cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e3f2833a2105e4969d12274b94702d7c4047df3">
+        <dex dex="/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/pre-dexed/debug/Msc_a7fd8fc9a108f09d6796165b1f010bf75ca450ad.jar" />
+    </item>
+
+</items>

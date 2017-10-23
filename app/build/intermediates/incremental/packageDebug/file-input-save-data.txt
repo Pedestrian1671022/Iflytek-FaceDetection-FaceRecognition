@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Oct 23 21:10:24 CST 2017
+2.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_offline_demo.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable/no_photo.png
+4.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main
+7.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+7.set=DEX
+count=11
+0.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+5.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_video_demo.xml
+4.set=NATIVE_RESOURCE
+6.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable/ic_launcher.png
+9.set=ANDROID_RESOURCE
+9.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_online_demo.xml
+10.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+2.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+9.base=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/transforms/stripDebugSymbol/debug/folders/2000/1f/main/lib/armeabi/libmsc.so
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

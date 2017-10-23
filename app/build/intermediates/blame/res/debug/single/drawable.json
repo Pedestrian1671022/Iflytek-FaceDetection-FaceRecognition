@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/pedestrian-username/Desktop/FaceDemo/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/pedestrian-username/Desktop/FaceDemo/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/home/pedestrian-username/Documents/Android Projects/FaceDemo/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/pedestrian-username/Desktop/FaceDemo/app/build/intermediates/res/merged/debug/drawable/no_photo.png",
+        "source": "/home/pedestrian-username/Desktop/FaceDemo/app/src/main/res/drawable/no_photo.png"
+    }
+]
